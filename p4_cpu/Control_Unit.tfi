@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+Control_Unit instance_name (
+    .OP(OP), 
+    .Func(Func), 
+    .WDsel(WDsel), 
+    .MEMwrite(MEMwrite), 
+    .ALUsel(ALUsel), 
+    .REGwrite(REGwrite), 
+    .ext(ext), 
+    .Branch(Branch), 
+    .REGsel(REGsel), 
+    .ALUcon(ALUcon), 
+    .Dmtype(Dmtype)
+    );
+
+

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj p6_cpu -o D:/ise/p6_cpu/F_PC.tfi -lib work D:/ise/p6_cpu//F_PC.v -module F_PC -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj p5_cpu -o D:/ise/p5_cpu/W_REG.tfi -lib work D:/ise/p5_cpu//W_REG.v -module W_REG -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

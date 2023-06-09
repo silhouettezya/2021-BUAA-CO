@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj p6_cpu -o D:/ise/p6_cpu/D_GRF.tfi -lib work D:/ise/p6_cpu//D_GRF.v -module D_GRF -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj p6_cpu -o D:/ise/p6_cpu/D_GRF.tfi -lib work D:/ise/p6_cpu//D_GRF.v -module D_GRF -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

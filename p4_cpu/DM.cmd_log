@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj p4_cpu -o D:/ise/p4_cpu/DM.tfi -lib work D:/ise/p4_cpu//DM.v -module DM -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj p4_cpu -o D:/ise/p4_cpu/DM.tfi -lib work D:/ise/p4_cpu//DM.v -module DM -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

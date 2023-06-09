@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj p5_cpu -o D:/ise/p5_cpu/M_DM.tfi -lib work D:/ise/p5_cpu//M_DM.v -module M_DM -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+F_PC instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .WE(WE), 
+    .npc(npc), 
+    .pc(pc)
+    );
+
+

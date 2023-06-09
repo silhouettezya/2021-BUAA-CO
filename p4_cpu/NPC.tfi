@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+NPC instance_name (
+    .pc(pc), 
+    .Branch(Branch), 
+    .beq(beq), 
+    .imm(imm), 
+    .imm26(imm26), 
+    .RD2(RD2), 
+    .npc(npc)
+    );
+
+

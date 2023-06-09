@@ -1,0 +1,27 @@
+
+
+
+// Instantiate the module
+E_REG instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .WE(WE), 
+    .instr_in(instr_in), 
+    .pc_in(pc_in), 
+    .rs_in(rs_in), 
+    .rt_in(rt_in), 
+    .EXT_in(EXT_in), 
+    .instr_out(instr_out), 
+    .pc_out(pc_out), 
+    .rs_out(rs_out), 
+    .rt_out(rt_out), 
+    .EXT_out(EXT_out), 
+    .req(req), 
+    .stall(stall), 
+    .EXcode_in(EXcode_in), 
+    .delay_in(delay_in), 
+    .EXcode_out(EXcode_out), 
+    .delay_out(delay_out)
+    );
+
+

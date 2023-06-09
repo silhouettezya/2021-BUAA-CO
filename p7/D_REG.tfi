@@ -1,0 +1,20 @@
+
+
+
+// Instantiate the module
+D_REG instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .WE(WE), 
+    .instr_in(instr_in), 
+    .pc_in(pc_in), 
+    .instr_out(instr_out), 
+    .pc_out(pc_out), 
+    .req(req), 
+    .EXcode_in(EXcode_in), 
+    .delay_in(delay_in), 
+    .EXcode_out(EXcode_out), 
+    .delay_out(delay_out)
+    );
+
+

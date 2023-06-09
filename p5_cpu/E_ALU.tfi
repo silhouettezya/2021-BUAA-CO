@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+E_ALU instance_name (
+    .in1(in1), 
+    .in2(in2), 
+    .ALUcon(ALUcon), 
+    .ALUout(ALUout)
+    );
+
+

@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+W_REG instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .WE(WE), 
+    .instr_in(instr_in), 
+    .pc_in(pc_in), 
+    .ALU_in(ALU_in), 
+    .DM_in(DM_in), 
+    .instr_out(instr_out), 
+    .pc_out(pc_out), 
+    .ALU_out(ALU_out), 
+    .DM_out(DM_out)
+    );
+
+

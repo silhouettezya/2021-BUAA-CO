@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj p4_cpu -o D:/ise/p4_cpu/NPC.tfi -lib work D:/ise/p4_cpu//NPC.v -module NPC -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj p4_cpu -o D:/ise/p4_cpu/NPC.tfi -lib work D:/ise/p4_cpu//NPC.v -module NPC -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

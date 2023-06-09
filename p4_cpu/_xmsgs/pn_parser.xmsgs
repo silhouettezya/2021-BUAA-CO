@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/ise/p4_cpu/const.v&apos; in file &quot;C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">101</arg>. <arg fmt="%s" index="3">Macro &lt;OP_j&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">101</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">102</arg>. <arg fmt="%s" index="3">Macro &lt;OP_lb&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">102</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">103</arg>. <arg fmt="%s" index="3">Macro &lt;OP_lbu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">103</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">104</arg>. <arg fmt="%s" index="3">Macro &lt;OP_lh&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">104</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">105</arg>. <arg fmt="%s" index="3">Macro &lt;OP_lhu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">105</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">106</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_add&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">106</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">107</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_sub&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">107</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">108</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_sll&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">108</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">109</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_srl&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">109</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">110</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_sra&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">110</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">111</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_sllv&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">111</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">112</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_srlv&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">112</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">113</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_srav&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">113</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">114</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_and&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">114</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">115</arg>. <arg fmt="%s" index="3">Macro &lt;OP_andi&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">115</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">116</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_or&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">116</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">117</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_xor&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">117</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">118</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_nor&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">118</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">119</arg>. <arg fmt="%s" index="3">Macro &lt;OP_addi&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">119</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">120</arg>. <arg fmt="%s" index="3">Macro &lt;OP_addiu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">120</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">121</arg>. <arg fmt="%s" index="3">Macro &lt;OP_xori&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">121</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">122</arg>. <arg fmt="%s" index="3">Macro &lt;OP_slti&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">122</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">123</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_sltu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">123</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">124</arg>. <arg fmt="%s" index="3">Macro &lt;OP_sltiu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">124</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">125</arg>. <arg fmt="%s" index="3">Macro &lt;OP_bne&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">125</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">126</arg>. <arg fmt="%s" index="3">Macro &lt;OP_blez&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">126</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">127</arg>. <arg fmt="%s" index="3">Macro &lt;OP_bgtz&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">127</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">128</arg>. <arg fmt="%s" index="3">Macro &lt;OP_bltz&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">128</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">129</arg>. <arg fmt="%s" index="3">Macro &lt;OP_bgez&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">129</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">130</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_jalr&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">130</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">131</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_mult&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">131</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">132</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_multu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">132</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">133</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_div&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">133</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">134</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_divu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">134</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">135</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_mthi&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">135</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">136</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_mtlo&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">136</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">137</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_mfhi&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">137</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">138</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_mflo&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">138</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">139</arg>. <arg fmt="%s" index="3">Macro &lt;OP_sh&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">139</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">140</arg>. <arg fmt="%s" index="3">Macro &lt;OP_sb&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">140</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">141</arg>. <arg fmt="%s" index="3">Macro &lt;OP_cp0&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">141</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">142</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">142</arg>. <arg fmt="%s" index="3">Macro &lt;cp0_mtc0&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">143</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">143</arg>. <arg fmt="%s" index="3">Macro &lt;FUNC_eret&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">162</arg>. <arg fmt="%s" index="3">Macro &lt;wd_hilo&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">162</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">163</arg>. <arg fmt="%s" index="3">Macro &lt;wd_cp0&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">166</arg>. <arg fmt="%s" index="3">Macro &lt;alu1_rt&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">166</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">167</arg>. <arg fmt="%s" index="3">Macro &lt;alu1_rs&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">169</arg>. <arg fmt="%s" index="3">Macro &lt;alu2_imm&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">169</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">170</arg>. <arg fmt="%s" index="3">Macro &lt;alu2_shamt&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">171</arg>. <arg fmt="%s" index="3">Macro &lt;alu2_rs5&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">172</arg>. <arg fmt="%s" index="3">Macro &lt;alu2_rt&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">174</arg>. <arg fmt="%s" index="3">Macro &lt;ext_signed&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">174</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">175</arg>. <arg fmt="%s" index="3">Macro &lt;ext_unsigned&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">183</arg>. <arg fmt="%s" index="3">Macro &lt;b_beq&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">183</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">184</arg>. <arg fmt="%s" index="3">Macro &lt;b_bne&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">185</arg>. <arg fmt="%s" index="3">Macro &lt;b_blez&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">186</arg>. <arg fmt="%s" index="3">Macro &lt;b_bgtz&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">187</arg>. <arg fmt="%s" index="3">Macro &lt;b_bltz&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">188</arg>. <arg fmt="%s" index="3">Macro &lt;b_bgez&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">195</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_sltu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">195</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">197</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_sll&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">198</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_srl&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">199</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_sra&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">200</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_and&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">201</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_xor&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">202</arg>. <arg fmt="%s" index="3">Macro &lt;ALU_nor&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">205</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_mult&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">205</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">206</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_multu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">207</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_div&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">208</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_divu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">209</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_mthi&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">210</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_mtlo&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">211</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_mfhi&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">212</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_mflo&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">213</arg>. <arg fmt="%s" index="3">Macro &lt;HILO_none&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">215</arg>. <arg fmt="%s" index="3">Macro &lt;be_sw&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">215</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">216</arg>. <arg fmt="%s" index="3">Macro &lt;be_sh&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">217</arg>. <arg fmt="%s" index="3">Macro &lt;be_sb&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">218</arg>. <arg fmt="%s" index="3">Macro &lt;be_none&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">220</arg>. <arg fmt="%s" index="3">Macro &lt;dp_lw&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">220</arg>. <arg fmt="%s" index="3">Syntax error near &quot;:&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">221</arg>. <arg fmt="%s" index="3">Macro &lt;dp_lh&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">222</arg>. <arg fmt="%s" index="3">Macro &lt;dp_lb&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">223</arg>. <arg fmt="%s" index="3">Macro &lt;dp_lhu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">224</arg>. <arg fmt="%s" index="3">Macro &lt;dp_lbu&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">232</arg>. <arg fmt="%s" index="3">Macro &lt;reg_zero&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/z&apos;ya/Desktop/新建压缩(zipped)文件夹/_CU.v</arg>&quot; Line <arg fmt="%d" index="2">232</arg>. <arg fmt="%s" index="3">Syntax error near &quot;;&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/ise/p4_cpu/ALU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/ise/p4_cpu/ALU.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/ise/p4_cpu/const.v&apos; in file &quot;D:/ise/p4_cpu/ALU.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/ise/p4_cpu/Control_Unit.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/ise/p4_cpu/Control_Unit.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/ise/p4_cpu/const.v&apos; in file &quot;D:/ise/p4_cpu/Control_Unit.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/ise/p4_cpu/DM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/ise/p4_cpu/DM.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/ise/p4_cpu/const.v&apos; in file &quot;D:/ise/p4_cpu/DM.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/ise/p4_cpu/EXT.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/ise/p4_cpu/GRF.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/ise/p4_cpu/IFU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/ise/p4_cpu/NPC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/ise/p4_cpu/NPC.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/ise/p4_cpu/const.v&apos; in file &quot;D:/ise/p4_cpu/NPC.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/ise/p4_cpu/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/ise/p4_cpu/mips.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/ise/p4_cpu/const.v&apos; in file &quot;D:/ise/p4_cpu/mips.v&quot; line 2
+</arg>
+</msg>
+
+</messages>
+

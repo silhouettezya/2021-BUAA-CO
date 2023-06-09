@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj p6_cpu -o D:/ise/p6_cpu/E_HILO.tfi -lib work D:/ise/p6_cpu//E_HILO.v -module E_HILO -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

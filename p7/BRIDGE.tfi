@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+BRIDGE instance_name (
+    .pr_a(pr_a), 
+    .pr_we(pr_we), 
+    .interrupt(interrupt), 
+    .irq1(irq1), 
+    .irq2(irq2), 
+    .t1_out(t1_out), 
+    .t2_out(t2_out), 
+    .t1_we(t1_we), 
+    .t2_we(t2_we), 
+    .pr_rd(pr_rd), 
+    .HWint(HWint)
+    );
+
+

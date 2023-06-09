@@ -1,0 +1,16 @@
+
+
+
+// Instantiate the module
+M_BE instance_name (
+    .Wdm_addr(Wdm_addr), 
+    .Wdm_data_tmp(Wdm_data_tmp), 
+    .be_sel(be_sel), 
+    .byteen(byteen), 
+    .Wdm_data(Wdm_data), 
+    .EXdm(EXdm), 
+    .store(store), 
+    .AdES(AdES)
+    );
+
+

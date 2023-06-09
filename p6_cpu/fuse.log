@@ -1,0 +1,58 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/ise/p6_cpu/mips_txt_isim_beh.exe -prj D:/ise/p6_cpu/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/ise/p6_cpu/_CU.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/W_REG.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/SU.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/M_REG.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/M_DP.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/M_BE.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/F_PC.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/E_REG.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/E_HILO.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/E_ALU.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/D_REG.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/D_NPC.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/D_GRF.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/D_EXT.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/CMP.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/mips.v" into library work
+Analyzing Verilog file "D:/ise/p6_cpu/mips_tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/ise/p6_cpu/mips_tb.v" Line 24: Port interrupt is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p6_cpu/mips.v" Line 118: Port rd_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p6_cpu/mips.v" Line 214: Port rd_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p6_cpu/mips.v" Line 292: Port rs_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p6_cpu/mips.v" Line 355: Port rs_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p6_cpu/SU.v" Line 32: Port rd_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p6_cpu/SU.v" Line 60: Port rs_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p6_cpu/SU.v" Line 77: Port rs_addr is not connected to this instance
+Completed static elaboration
+Compiling module _CU
+Compiling module SU
+Compiling module F_PC
+Compiling module D_REG
+Compiling module D_EXT
+Compiling module D_GRF
+Compiling module D_CMP
+Compiling module D_NPC
+Compiling module E_REG
+Compiling module E_ALU
+Compiling module E_HILO
+Compiling module M_REG
+Compiling module M_BE
+Compiling module M_DP
+Compiling module W_REG
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\mips_txt_isim_beh.exe.sim\libPortability.dll".
+Compiled 18 Verilog Units
+Built simulation executable D:/ise/p6_cpu/mips_txt_isim_beh.exe
+Fuse Memory Usage: 33556 KB
+Fuse CPU Usage: 874 ms

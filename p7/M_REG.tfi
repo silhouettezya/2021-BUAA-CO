@@ -1,0 +1,30 @@
+
+
+
+// Instantiate the module
+M_REG instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .WE(WE), 
+    .instr_in(instr_in), 
+    .pc_in(pc_in), 
+    .ALU_in(ALU_in), 
+    .HILO_in(HILO_in), 
+    .rt_in(rt_in), 
+    .EXT_in(EXT_in), 
+    .instr_out(instr_out), 
+    .pc_out(pc_out), 
+    .ALU_out(ALU_out), 
+    .HILO_out(HILO_out), 
+    .rt_out(rt_out), 
+    .EXT_out(EXT_out), 
+    .req(req), 
+    .EXcode_in(EXcode_in), 
+    .delay_in(delay_in), 
+    .EXdm_in(EXdm_in), 
+    .EXcode_out(EXcode_out), 
+    .delay_out(delay_out), 
+    .EXdm_out(EXdm_out)
+    );
+
+

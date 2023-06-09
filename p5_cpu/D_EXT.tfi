@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+D_EXT instance_name (
+    .imm(imm), 
+    .ext(ext), 
+    .EXTout(EXTout)
+    );
+
+

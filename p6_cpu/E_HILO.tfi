@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+E_HILO instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .rs(rs), 
+    .rt(rt), 
+    .HILOtype(HILOtype), 
+    .HILObusy(HILObusy), 
+    .HILOout(HILOout)
+    );
+
+

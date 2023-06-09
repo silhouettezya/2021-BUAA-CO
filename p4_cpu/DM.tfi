@@ -1,0 +1,16 @@
+
+
+
+// Instantiate the module
+DM instance_name (
+    .pc(pc), 
+    .clk(clk), 
+    .reset(reset), 
+    .DMaddr(DMaddr), 
+    .DMdata(DMdata), 
+    .Memwrite(Memwrite), 
+    .Dmtype(Dmtype), 
+    .DMout(DMout)
+    );
+
+

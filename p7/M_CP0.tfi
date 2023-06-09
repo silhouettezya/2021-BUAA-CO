@@ -1,0 +1,23 @@
+
+
+
+// Instantiate the module
+M_CP0 instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .A1(A1), 
+    .A2(A2), 
+    .WD(WD), 
+    .pc(pc), 
+    .EXcode(EXcode), 
+    .delay(delay), 
+    .WE(WE), 
+    .HWint(HWint), 
+    .EXLclr(EXLclr), 
+    .req(req), 
+    .epc(epc), 
+    .CP0out(CP0out), 
+    .int_en(int_en)
+    );
+
+

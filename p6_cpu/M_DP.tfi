@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+M_DP instance_name (
+    .DMout_tmp(DMout_tmp), 
+    .dp_sel(dp_sel), 
+    .dp_addr(dp_addr), 
+    .DMout(DMout)
+    );
+
+

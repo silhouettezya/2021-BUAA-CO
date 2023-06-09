@@ -1,0 +1,53 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/ise/p5_cpu/p5cpu_test_isim_beh.exe -prj D:/ise/p5_cpu/p5cpu_test_beh.prj work.p5cpu_test work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/ise/p5_cpu/_CU.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/W_REG.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/SU.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/M_REG.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/M_DM.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/IFU.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/E_REG.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/E_ALU.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/D_REG.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/D_NPC.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/D_GRF.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/D_EXT.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/CMP.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/mips.v" into library work
+Analyzing Verilog file "D:/ise/p5_cpu/p5cpu_test.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/ise/p5_cpu/mips.v" Line 92: Port rd_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p5_cpu/mips.v" Line 175: Port rd_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p5_cpu/mips.v" Line 231: Port rs_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p5_cpu/mips.v" Line 274: Port rs_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p5_cpu/SU.v" Line 31: Port rd_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p5_cpu/SU.v" Line 55: Port rs_addr is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/ise/p5_cpu/SU.v" Line 71: Port rs_addr is not connected to this instance
+Completed static elaboration
+Compiling module _CU
+Compiling module SU
+Compiling module IFU
+Compiling module D_REG
+Compiling module D_EXT
+Compiling module D_GRF
+Compiling module D_CMP
+Compiling module D_NPC
+Compiling module E_REG
+Compiling module E_ALU
+Compiling module M_REG
+Compiling module M_DM
+Compiling module W_REG
+Compiling module mips
+Compiling module p5cpu_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\p5cpu_test_isim_beh.exe.sim\libPortability.dll".
+Compiled 16 Verilog Units
+Built simulation executable D:/ise/p5_cpu/p5cpu_test_isim_beh.exe
+Fuse Memory Usage: 29376 KB
+Fuse CPU Usage: 328 ms

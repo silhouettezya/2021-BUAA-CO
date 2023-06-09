@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj p7 -o D:/ise/p7/D_REG.tfi -lib work D:/ise/p7//D_REG.v -module D_REG -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

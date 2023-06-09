@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj p4_cpu -o D:/ise/p4_cpu/GRF.tfi -lib work D:/ise/p4_cpu//GRF.v -module GRF -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,28 @@
+Command line:
+   p5cpu_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50228
+
+Thu Dec 16 23:31:41 2021
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5159.05 Meg
+
+ Total Signals          : 434
+ Total Nets             : 2132
+ Total Signal Drivers   : 309
+ Total Blocks           : 22
+ Total Primitive Blocks : 19
+ Total Processes        : 325
+ Total Traceable Variables  : 43
+ Total Scalar Nets and Variables : 233254
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5159.05 Meg
+
+Thu Dec 16 23:31:51 2021
+
